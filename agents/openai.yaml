@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 214"
+  short_description: "Rough Cut-out Spot with Local Colours"
+  default_prompt: "Use $xxd-panel-214 to transform my photograph following the complete canonical source brief."
