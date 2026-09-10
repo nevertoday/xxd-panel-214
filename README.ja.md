@@ -10,9 +10,17 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-[作例の制作と検証](references/sample-workflow.md) · [作例一覧](references/samples.json)
+| sample-01 | sample-03 | sample-05 | sample-07 |
+| --- | --- | --- | --- |
+| ![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png) |
+| sample-03 | sample-04 |
+| ![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png) |
+| sample-05 | sample-06 |
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## 向いている場面と解決する課題
 
