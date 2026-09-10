@@ -10,16 +10,10 @@
 
 ## 样张展示
 
-已将本项目的 8 张样张文件上传至仓库；以下展示的是仓库中的实际图片文件。当前仍以样张清单的验收状态为准。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-[样张制作与验收流程](references/sample-workflow.md) · [样张清单](references/samples.json)
-
-### 样张文件
-
-以下图片已上传到本项目，点击或直接查看即可。当前仍以 `references/samples.json` 的验收状态为准。
-
-| sample-01 | sample-02 |
-|---|---|
+| sample-01 | sample-03 | sample-05 | sample-07 |
+| --- | --- | --- | --- |
 | ![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png) |
 | sample-03 | sample-04 |
 | ![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png) |
