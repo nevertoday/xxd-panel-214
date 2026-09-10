@@ -8,6 +8,36 @@
 
 </div>
 
+## 16:9 左右の作例
+
+独立した4点の素材による 16:9 完成キャンバス。左が現実写真、右が本 Panel のデザイン、厳密に 50:50。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 214 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 214 Sample 6"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 214 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 214 Sample 8"></td>
+  </tr>
+</table>
+
+## 3:4 上下の作例
+
+16:9 組とは別の独立した4点で、3:4 上下の完成キャンバスを生成。上が現実写真、下がデザイン、厳密に 50:50。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 214 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 214 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 214 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 214 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 ## 向いている場面と解決する課題
 
 個人の写真整理、自主出版、展示の習作、ライフスタイルのビジュアルに。平凡な構図、雑然とした背景、小さな被写体も、削減・再配置・切り抜き・尺度の変更によって焦点を作り直せます。単なる写真フィルターではありません。
