@@ -8,11 +8,6 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 </div>
 
-## Sample works
-
-
-样片暂未发布。
-
 ## Best-fit situations and problems solved
 
 For personal photography collections, independent publications, exhibition studies and lifestyle visuals. A weak composition, busy background or small subject becomes a starting point for subtraction, rearrangement, cropping and scale changes—not a reason to apply a filter.
