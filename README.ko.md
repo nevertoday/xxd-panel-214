@@ -10,17 +10,8 @@
 
 ## 샘플 작품
 
-本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-01 | sample-03 | sample-05 | sample-07 |
-| --- | --- | --- | --- |
-| ![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png) |
-| sample-03 | sample-04 |
-| ![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png) |
-| sample-05 | sample-06 |
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| sample-07 | sample-08 |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+样片暂未发布。
 
 ## 잘 맞는 상황과 해결하는 문제
 
