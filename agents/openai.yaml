@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 214"
-  short_description: "Rough Cut-out Spot with Local Colours"
-  default_prompt: "Use $xxd-panel-214 to transform my photograph following the complete canonical source brief."
+  short_description: "真实固有色粗粝剪纸：把照片收成白纸上一小块带真实颜色的粗糙剪纸小插图"
+  default_prompt: "Use $xxd-panel-214 to turn my photo into Rough Cut-out Spot with Local Colours artwork."

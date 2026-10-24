@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-214
-description: "Create Panel 214 raster artwork: Rough Cut-out Spot with Local Colours. Use when the user invokes xxd-panel-214 or requests this specific visual language."
+description: "XXD Panel 214｜Rough Cut-out Spot with Local Colours: reduces a photo to a few of its most memorable shapes, cut as faceted, irregular geometric blocks with rough hand-cut edges, filled with dry gouache, pastel and coloured-pencil grain that leaves gaps and scuffs, gathered into one small visual island covering roughly 15–25% of the area on clean white paper; every object keeps its own true colour from the photo (green leaves, red fruit, blue water) separated by white, black is used almost only for a few small editorial words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-214 or asks for cut-paper, faceted spot illustration with lots of white space from a photo."
 ---
 
 # XXD Panel 214

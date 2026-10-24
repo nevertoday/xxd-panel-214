@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 214｜Rough Cut-out Spot with Local Colours: reduces a photo to a few of its most memorable shapes, cut as faceted, irregular geometric blocks with rough hand-cut edges, filled with dry gouache, pastel and coloured-pencil grain that leaves gaps and scuffs, gathered into one small visual island covering roughly 15–25% of the area on clean white paper; every object keeps its own true colour from the photo (green leaves, red fruit, blue water) separated by white, black is used almost only for a few small editorial words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-214 or asks for cut-paper, faceted spot illustration with lots of white space from a photo.",
+  "short_description": "真实固有色粗粝剪纸：把照片收成白纸上一小块带真实颜色的粗糙剪纸小插图",
+  "zh-CN": {
+    "name": "真实固有色粗粝剪纸",
+    "tagline": "把照片收成大片白纸上一小块保留真实颜色的粗糙剪纸小插图。",
+    "look": "照片里最能代表画面的几处记忆点，被剪成带硬边和棱面的不规则几何色块，像粗糙的手工剪纸，内部是水粉、干粉彩、彩铅式的颗粒铺色，留着漏白和擦痕。所有图形加起来只占画面一两成，聚成一个小小的视觉岛，四周是干净的白纸。每样东西保留自己的真实颜色：叶子是绿的，花果是红粉的，水和天空是青蓝的，彼此靠白纸隔开，几乎不用黑色。留白里有几个小巧、带手工印刷感的字。",
+    "traits": ["粗粝剪纸边", "棱面几何", "干性颗粒", "真实固有色", "极小视觉岛"],
+    "good": [
+      "有几样不同颜色物件的生活场景：阳台盆栽、水果篮、早餐桌、海边一角",
+      "形状简单的单个对象：一只鸟、一辆自行车、一杯饮料",
+      "想做生活杂志小插图或文章题图的照片"
+    ],
+    "poor": [
+      "本来就灰暗单调的照片，这个风格靠原物鲜活的颜色撑起来",
+      "曲线柔滑、细节精密的对象：人脸特写、珠宝、精密机械",
+      "想要统一滤镜色调、湿水彩晕染或黑色粗描边的效果"
+    ]
+  },
+  "en": {
+    "name": "Rough Cut-out Spot with Local Colours",
+    "tagline": "Turns a photo into a small, rough cut-paper spot illustration in true colours on a wide white page.",
+    "look": "A few of the most memorable shapes in your photo are cut into faceted, irregular geometric blocks with hard, rough edges, like hand-cut paper, filled with dry gouache, pastel and coloured-pencil grain that leaves gaps and scuffs. Together they cover only a tenth to a fifth of the page, gathered into one small island surrounded by clean white paper. Each thing keeps its own real colour: leaves stay green, fruit and flowers stay red and pink, water and sky stay blue, all kept apart by white, with almost no black. A few small words with a hand-printed feel sit in the white space.",
+    "traits": ["Rough cut-paper edges", "Faceted geometry", "Dry grainy colour", "True local colour", "Tiny visual island"],
+    "good": [
+      "Everyday scenes with a few differently coloured things: balcony plants, a fruit basket, a breakfast table, a corner of the beach",
+      "Single objects with a simple shape: a bird, a bicycle, a glass of juice",
+      "Photos you want as a small lifestyle-magazine illustration or an article header"
+    ],
+    "poor": [
+      "Photos that are already dull and grey, since this style relies on lively real colours",
+      "Smoothly curved or finely detailed subjects: close-up faces, jewellery, precision machinery",
+      "Requests for a unified filter tone, wet watercolour bleeds or thick black outlines"
+    ]
+  },
+  "ja": {
+    "name": "固有色を活かす粗い切り絵小品",
+    "tagline": "写真を、広い白紙に置いた、本来の色を残す粗い切り絵の小さなイラストにします。",
+    "look": "写真を代表するいくつかの記憶点を、硬い縁と面をもつ不規則な幾何形に切り出します。粗い手切りの紙のようで、中はガッシュ、乾いたパステル、色鉛筆の粒子で塗られ、塗り残しや擦れが残ります。図形は全部合わせても画面の一、二割ほどで、小さな島にまとまり、まわりはきれいな白紙です。それぞれの物は本来の色を保ちます。葉は緑、花や果実は赤やピンク、水や空は青。色同士は白で隔てられ、黒はほとんど使いません。余白には手刷りの風合いがある小さな文字が少し入ります。",
+    "traits": ["粗い切り絵の縁", "多面的な幾何形", "乾いた粒子の彩色", "本来の固有色", "小さな視覚の島"],
+    "good": [
+      "色の違う物がいくつかある日常の場面：ベランダの鉢植え、果物かご、朝食のテーブル、海辺の一角",
+      "形がシンプルな一つの対象：鳥、自転車、グラスの飲み物",
+      "ライフスタイル誌の小さな挿絵や記事のカットにしたい写真"
+    ],
+    "poor": [
+      "もともと灰色っぽく単調な写真（この作風は物の生き生きした色に頼ります）",
+      "なめらかな曲線や精密な細部が大事な対象：顔のアップ、ジュエリー、精密機械",
+      "統一したフィルター調、にじむ水彩、黒く太い輪郭線を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "고유색을 살린 거친 오려내기 소품",
+    "tagline": "사진을 넓은 흰 종이 위, 실제 색을 살린 거친 종이 오리기 작은 일러스트로 바꿉니다.",
+    "look": "사진을 대표하는 몇 가지 기억점을 단단한 모서리와 면을 가진 불규칙한 기하 색면으로 오려냅니다. 거칠게 손으로 자른 종이 같고, 안쪽은 과슈, 마른 파스텔, 색연필의 입자로 칠해 빈틈과 긁힌 자국이 남습니다. 도형은 모두 합쳐도 화면의 1~2할 정도로 작은 섬처럼 모이고, 주변은 깨끗한 흰 종이입니다. 각각의 사물은 자기 색을 지킵니다. 잎은 초록, 꽃과 열매는 빨강과 분홍, 물과 하늘은 파랑이고, 색 사이는 흰 종이로 떨어져 있으며 검정은 거의 쓰지 않습니다. 여백에는 손으로 찍은 듯한 작은 글자가 조금 들어갑니다.",
+    "traits": ["거친 오린 가장자리", "다면 기하", "마른 입자 채색", "실제 고유색", "작은 시각의 섬"],
+    "good": [
+      "색이 다른 사물이 몇 가지 있는 일상 장면: 베란다 화분, 과일 바구니, 아침 식탁, 바닷가 한 구석",
+      "형태가 단순한 하나의 대상: 새, 자전거, 음료 한 잔",
+      "라이프스타일 잡지의 작은 삽화나 글 머리 그림으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "원래 칙칙하고 단조로운 사진(이 스타일은 사물의 생생한 색에 기댑니다)",
+      "매끈한 곡선이나 정밀한 세부가 중요한 대상: 얼굴 클로즈업, 보석, 정밀 기계",
+      "통일된 필터 색조, 번지는 수채, 굵은 검은 윤곽선을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم قصاصات خشن بألوان الأشياء الأصلية",
+    "tagline": "يحوّل الصورة إلى رسم صغير من قصاصات ورق خشنة بألوانها الحقيقية على صفحة بيضاء واسعة.",
+    "look": "تُقصّ بضعة أشكال من أبرز ما في صورتك على هيئة كتل هندسية غير منتظمة متعددة الأوجه بحواف صلبة خشنة، كأنها ورق مقصوص باليد، وتُلوَّن من الداخل بحبيبات الغواش والباستيل الجاف والأقلام الملونة مع فجوات وخدوش ظاهرة. لا تشغل كلها معاً إلا عُشر الصفحة إلى خُمسها، وتتجمع في جزيرة صغيرة يحيط بها ورق أبيض نظيف. يحتفظ كل شيء بلونه الحقيقي: الأوراق خضراء، والزهور والثمار حمراء ووردية، والماء والسماء زرقاء، ويفصل الأبيض بينها، ولا يكاد يُستخدم الأسود. وتظهر في الفراغ كلمات قليلة صغيرة بإحساس الطباعة اليدوية.",
+    "traits": ["حواف قصاصات خشنة", "هندسة متعددة الأوجه", "تلوين جاف محبب", "ألوان الأشياء الحقيقية", "جزيرة بصرية صغيرة"],
+    "good": [
+      "مشاهد يومية فيها بضعة أشياء مختلفة الألوان: نباتات شرفة، سلة فاكهة، مائدة فطور، زاوية من الشاطئ",
+      "عنصر واحد بسيط الشكل: طائر، دراجة، كأس عصير",
+      "صور تريدها رسماً صغيراً لمجلة أسلوب حياة أو صورة رأس لمقال"
+    ],
+    "poor": [
+      "صور باهتة رمادية أصلاً، فهذا الأسلوب يعتمد على حيوية الألوان الحقيقية",
+      "عناصر ناعمة الانحناءات أو دقيقة التفاصيل: وجه عن قرب، مجوهرات، آلات دقيقة",
+      "طلب لون موحّد كالمرشّح أو ألوان مائية سائلة أو خطوط خارجية سوداء سميكة"
+    ]
+  }
+}
